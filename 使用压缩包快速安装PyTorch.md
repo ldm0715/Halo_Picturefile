@@ -1,3 +1,4 @@
+**这是草稿，具体的在https://halo.gcnanmu3125.xyz/archives/%E5%BF%AB%E9%80%9F%E5%AE%89%E8%A3%85pytorch**
 # 快速压缩包快速安装PyTorch
 
 ## 一、写在前面
